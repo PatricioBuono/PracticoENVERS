@@ -1,0 +1,1 @@
+Trabajamos en el mismo codigo que el practicoJPA, pero le agregamos dos paquetes, audit que contiene la clase Revision, y el config que contiene la clase CustomRevisionListener. Al algregar estos paquetes logramos tener como un "historial" de la base de datos, donde podemos observar si se ha modificado o eliminado algo
